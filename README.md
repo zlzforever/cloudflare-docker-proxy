@@ -30,11 +30,11 @@
    - add more records and modify the config as you need
    ```javascript
    const routes = {
-     "docker.zousong.org": "https://registry-1.docker.io",
-     "quay.zousong.org": "https://quay.io",
-     "gcr.zousong.org": "https://k8s.gcr.io",
-     "k8s-gcr.zousong.org": "https://k8s.gcr.io",
-     "ghcr.zousong.org": "https://ghcr.io",
+     "docker.xxx.org": "https://registry-1.docker.io",
+     "quay.xxx.org": "https://quay.io",
+     "gcr.xxx.org": "https://k8s.gcr.io",
+     "k8s-gcr.xxx.org": "https://k8s.gcr.io",
+     "ghcr.xxx.org": "https://ghcr.io",
    };
    ```
 
